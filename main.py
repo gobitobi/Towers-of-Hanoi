@@ -1,5 +1,5 @@
 import pygame as py
-from Disk import Disk
+from disk import Disk
 
 py.init()
 py.font.init()
